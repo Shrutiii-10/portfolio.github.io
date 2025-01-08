@@ -1,0 +1,36 @@
+2024-12-26 11:28:15 - Added platform and time slot
+2024-12-26 11:28:38 - Displayed crowd data
+2024-12-26 11:28:57 - Saved data to file
+2024-12-26 11:29:00 - Loaded data from file
+2024-12-26 11:37:15 - Displayed crowd data
+2024-12-26 18:58:22 - Added platform and time slot
+2024-12-26 18:58:43 - Added platform and time slot
+2024-12-26 18:58:47 - Saved data to file
+2024-12-26 18:58:50 - Loaded data from file
+2024-12-26 18:58:54 - Displayed crowd data
+2024-12-26 19:00:42 - Loaded data from file
+2024-12-26 19:00:45 - Displayed crowd data
+2024-12-26 19:01:03 - Loaded data from file
+2024-12-26 19:01:13 - Displayed crowd data
+2024-12-29 18:58:14 - Added platform and time slot
+2024-12-29 18:58:35 - Added platform and time slot
+2024-12-29 18:58:58 - Predicted future density
+2024-12-29 18:59:05 - Visualized crowd density
+2024-12-29 18:59:21 - Checked overcrowding
+2024-12-29 18:59:47 - Checked overcrowding
+2024-12-29 18:59:57 - Analyzed crowd density trends
+2024-12-29 19:21:50 - Added platform and time slot
+2024-12-29 19:23:36 - Added station,platform and time slot
+2024-12-29 19:24:16 - Added station,platform and time slot
+2024-12-29 19:25:02 - Saved data to file
+2024-12-29 19:25:51 - Checked overcrowding
+2024-12-29 19:26:15 - Loaded data from file
+2024-12-29 19:26:18 - Displayed crowd data
+2024-12-29 19:27:39 - Added station,platform and time slot
+2024-12-29 19:28:01 - Added station,platform and time slot
+2024-12-29 19:28:03 - Displayed crowd data
+2024-12-29 19:28:09 - Saved data to file
+2024-12-29 19:48:45 - Added station,platform and time slot
+2024-12-29 19:53:54 - Added station,platform and time slot
+2024-12-29 19:59:17 - Added station,platform and time slot
+2024-12-29 20:01:11 - Added station,platform and time slot
